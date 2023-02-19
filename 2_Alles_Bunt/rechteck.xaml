@@ -7,8 +7,8 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <Canvas Height="300"  Width="300" Background="Beige">
-            <Rectangle Canvas.Top="75" Canvas.Left="75"  Width="150" Height="150" Fill="Red"/>
+        <Canvas Height="300"  Width="400" Background="Beige">
+            <Rectangle Canvas.Top="75" Canvas.Left="75"  Width="250" Height="150" Fill="Red"/>
         </Canvas>
     </Grid>
 </UserControl>
